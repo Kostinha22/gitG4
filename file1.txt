@@ -1,3 +1,1 @@
-Hello world 
-fixed new test 
-file 1 was changed 
+We create the new conflict 
