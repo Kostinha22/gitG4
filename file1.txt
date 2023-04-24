@@ -1,2 +1,3 @@
 Hello world 
-fixed new test
+fixed new test 
+file 1 was changed 
